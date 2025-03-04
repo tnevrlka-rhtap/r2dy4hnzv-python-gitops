@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: r2dy4hnzv-python-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/r2dy4hnzv-python-gitops
